@@ -1,0 +1,572 @@
+Alameda	States Rights Party	54.0%	
+ 
+Bull Moose Party	45.6%	
+ 
+
+ 
+Other	0.4%	
+ 
+
+
+Alpine	States Rights Party	23.3%	
+ 
+Bull Moose Party	76.7%	 
+
+Amador	States Rights Party	55.0%	
+ 
+Bull Moose Party	44.5%	
+ 
+
+ 
+Other	0.5%	
+ 
+
+
+Butte	States Rights Party	41.9%	
+ 
+Bull Moose Party	57.6%	
+ 
+
+ 
+Other	0.5%	
+ 
+
+
+Calaveras	States Rights Party	46.8%	
+ 
+Bull Moose Party	52.6%	
+ 
+
+ 
+Other	0.6%	
+ 
+
+
+Colusa	States Rights Party	48.3%	
+ 
+Bull Moose Party	51.4%	
+ 
+
+ 
+Other	0.3%	
+ 
+
+
+Contra Costa	States Rights Party	52.9%	
+ 
+Bull Moose Party	46.8%	
+ 
+
+ 
+Other	0.3%	
+ 
+
+
+Del Norte	States Rights Party	51.2%	
+ 
+Bull Moose Party	48.0%	
+ 
+
+ 
+Other	0.7%	
+ 
+
+
+El Dorado	States Rights Party	50.1%	
+ 
+Bull Moose Party	49.2%	
+ 
+
+ 
+Other	0.8%	
+ 
+
+
+Fresno	States Rights Party	55.2%	
+ 
+Bull Moose Party	44.3%	
+ 
+
+ 
+Other	0.5%	
+ 
+
+
+Glenn	States Rights Party	46.4%	
+ 
+Bull Moose Party	53.2%	
+ 
+
+ 
+Other	0.5%	
+ 
+
+
+Humboldt	States Rights Party	52.7%	
+ 
+Bull Moose Party	46.7%	
+ 
+
+ 
+Other	0.6%	
+ 
+
+
+Imperial	States Rights Party	46.0%	
+ 
+Bull Moose Party	53.5%	
+ 
+
+ 
+Other	0.4%	
+ 
+
+
+Inyo	States Rights Party	45.1%	
+ 
+Bull Moose Party	54.6%	
+ 
+
+ 
+Other	0.3%	
+ 
+
+
+Kern	States Rights Party	49.1%	
+ 
+Bull Moose Party	50.4%	
+ 
+
+ 
+Other	0.4%	
+ 
+
+
+Kings	States Rights Party	57.1%	
+ 
+Bull Moose Party	42.3%	
+ 
+
+ 
+Other	0.6%	
+ 
+
+
+Lake	States Rights Party	40.8%	
+ 
+Bull Moose Party	58.7%	
+ 
+
+ 
+Other	0.5%	
+ 
+
+
+Lassen	States Rights Party	59.1%	
+ 
+Bull Moose Party	40.2%	
+ 
+
+ 
+Other	0.7%	
+ 
+
+
+Los Angeles	States Rights Party	50.2%	
+ 
+Bull Moose Party	49.4%	
+ 
+
+ 
+Other	0.3%	
+ 
+
+
+Madera	States Rights Party	57.8%	
+ 
+Bull Moose Party	41.8%	
+ 
+
+ 
+Other	0.4%	
+ 
+
+
+Marin	States Rights Party	42.5%	
+ 
+Bull Moose Party	57.3%	
+ 
+
+ 
+Other	0.2%	
+ 
+
+
+Mariposa	States Rights Party	45.2%	
+ 
+Bull Moose Party	54.0%	
+ 
+
+ 
+Other	0.9%	
+ 
+
+
+Mendocino	States Rights Party	50.2%	
+ 
+Bull Moose Party	49.3%	
+ 
+
+ 
+Other	0.5%	
+ 
+
+
+Merced	States Rights Party	56.2%	
+ 
+Bull Moose Party	43.4%	
+ 
+
+ 
+Other	0.4%	
+ 
+
+
+Modoc	States Rights Party	47.6%	
+ 
+Bull Moose Party	51.8%	
+ 
+
+ 
+Other	0.6%	
+ 
+
+
+Mono	States Rights Party	33.2%	
+ 
+Bull Moose Party	66.3%	
+ 
+
+ 
+Other	0.4%	
+ 
+
+
+Monterey	States Rights Party	43.4%	
+ 
+Bull Moose Party	56.3%	
+ 
+
+ 
+Other	0.3%	
+ 
+
+
+Napa	States Rights Party	46.9%	
+ 
+Bull Moose Party	52.6%	
+ 
+
+ 
+Other	0.5%	
+ 
+
+
+Nevada	States Rights Party	45.7%	
+ 
+Bull Moose Party	53.4%	
+ 
+
+ 
+Other	0.9%	
+ 
+
+
+Orange	States Rights Party	38.9%	
+ 
+Bull Moose Party	60.8%	
+ 
+
+ 
+Other	0.2%	
+ 
+
+
+Placer	States Rights Party	55.8%	
+ 
+Bull Moose Party	43.7%	
+ 
+
+ 
+Other	0.5%	
+ 
+
+
+Plumas	States Rights Party	62.0%	
+ 
+Bull Moose Party	37.5%	
+ 
+
+ 
+Other	0.6%	
+ 
+
+
+Riverside	States Rights Party	43.4%	
+ 
+Bull Moose Party	56.2%	
+ 
+
+ 
+Other	0.5%	
+ 
+
+
+Sacramento	States Rights Party	56.3%	
+ 
+Bull Moose Party	43.3%	
+ 
+
+ 
+Other	0.4%	
+ 
+
+
+San Benito	States Rights Party	48.4%	
+ 
+Bull Moose Party	51.4%	
+ 
+
+ 
+Other	0.2%	
+ 
+
+
+San Bernardino	States Rights Party	47.5%	
+ 
+Bull Moose Party	52.0%	
+ 
+
+ 
+Other	0.5%	
+ 
+
+
+San Diego	States Rights Party	43.3%	
+ 
+Bull Moose Party	56.4%	
+ 
+
+ 
+Other	0.3%	
+ 
+
+
+San Francisco	States Rights Party	57.8%	
+ 
+Bull Moose Party	41.8%	
+ 
+
+ 
+Other	0.4%	
+ 
+
+
+San Joaquin	States Rights Party	46.8%	
+ 
+Bull Moose Party	52.9%	
+ 
+
+ 
+Other	0.4%	
+ 
+
+
+San Luis Obispo	States Rights Party	45.3%	
+ 
+Bull Moose Party	54.0%	
+ 
+
+ 
+Other	0.7%	
+ 
+
+
+San Mateo	States Rights Party	48.0%	
+ 
+Bull Moose Party	51.7%	
+ 
+
+ 
+Other	0.3%	
+ 
+
+
+Santa Barbara	States Rights Party	43.0%	
+ 
+Bull Moose Party	56.7%	
+ 
+
+ 
+Other	0.3%	
+ 
+
+
+Santa Clara	States Rights Party	47.0%	
+ 
+Bull Moose Party	52.7%	
+ 
+
+ 
+Other	0.3%	
+ 
+
+
+Santa Cruz	States Rights Party	39.9%	
+ 
+Bull Moose Party	59.6%	
+ 
+
+ 
+Other	0.4%	
+ 
+
+
+Shasta	States Rights Party	60.5%	
+ 
+Bull Moose Party	38.9%	
+ 
+
+ 
+Other	0.6%	
+ 
+
+
+Sierra	States Rights Party	52.6%	
+ 
+Bull Moose Party	46.8%	
+ 
+
+ 
+Other	0.6%	
+ 
+
+
+Siskiyou	States Rights Party	56.4%	
+ 
+Bull Moose Party	42.9%	
+ 
+
+ 
+Other	0.7%	
+ 
+
+
+Solano	States Rights Party	58.8%	
+ 
+Bull Moose Party	40.9%	
+ 
+
+ 
+Other	0.3%	
+ 
+
+
+Sonoma	States Rights Party	45.5%	
+ 
+Bull Moose Party	54.1%	
+ 
+
+ 
+Other	0.4%	
+ 
+
+
+Stanislaus	States Rights Party	49.8%	
+ 
+Bull Moose Party	49.6%	
+ 
+
+ 
+Other	0.6%	
+ 
+
+
+Sutter	States Rights Party	36.6%	
+ 
+Bull Moose Party	62.9%	
+ 
+
+ 
+Other	0.5%	
+ 
+
+
+Tehama	States Rights Party	49.6%	
+ 
+Bull Moose Party	50.0%	
+ 
+
+ 
+Other	0.4%	
+ 
+
+
+Trinity	States Rights Party	61.2%	
+ 
+Bull Moose Party	38.3%	
+ 
+
+ 
+Other	0.5%	
+ 
+
+
+Tulare	States Rights Party	45.6%	
+ 
+Bull Moose Party	54.0%	
+ 
+
+ 
+Other	0.4%	
+ 
+
+
+Tuolumne	States Rights Party	50.3%	
+ 
+Bull Moose Party	49.1%	
+ 
+
+ 
+Other	0.6%	
+ 
+
+
+Ventura	States Rights Party	50.0%	
+ 
+Bull Moose Party	49.6%	
+ 
+
+ 
+Other	0.4%	
+ 
+
+
+Yolo	States Rights Party	54.9%	
+ 
+Bull Moose Party	44.7%	
+ 
+
+ 
+Other	0.4%	
+ 
+
+
+Yuba	States Rights Party	47.7%	
+ 
+Bull Moose Party	51.7%	
+ 
+
+ 
+Other	0.6%	
+ 
